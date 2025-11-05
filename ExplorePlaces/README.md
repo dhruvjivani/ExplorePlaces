@@ -60,9 +60,9 @@ ExplorePlaces/
 <th>Details View</th>
 </tr>
 <tr>
-<td><img src="ExplorePlaces/Images/GridHomeView.png" width="200"/></td>
-<td><img src="ExplorePlaces/Images/HomeView.png" width="200"/></td>
-<td><img src="ExplorePlaces/Images/ViewDetails.png" width="200"/></td>
+<td><img src="Images/GridHomeView.png" width="200"/></td>
+<td><img src="Images/HomeView.png" width="200"/></td>
+<td><img src="Images/ViewDetails.png" width="200"/></td>
 </tr>
 </table>
 
