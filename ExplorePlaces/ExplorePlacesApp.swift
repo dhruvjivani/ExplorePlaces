@@ -15,5 +15,3 @@ struct ExplorePlacesApp: App {
         }
     }
 }
-
-hii
